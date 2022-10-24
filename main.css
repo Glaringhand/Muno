@@ -1,0 +1,14 @@
+h1 {
+     background-color: blue;
+     text-shadow: 5px 2px 5px  white;
+    }
+
+a {background-color: aqua;}
+
+a:hover {
+    background-color: blueviolet;
+   color: brown;
+font-size: larger;
+font-weight: 400;
+font-size: 50px;
+text-shadow: 2px 10px 2px blue;}    
